@@ -1,0 +1,14 @@
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\bin\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.exe
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\bin\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.deps.json
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\bin\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.runtimeconfig.json
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\bin\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.dll
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\bin\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.pdb
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.dll
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\refint\IT232_UNIT3_ASSIGNMENT.dll
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.pdb
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\IT232_UNIT3_ASSIGNMENT.genruntimeconfig.cache
+C:\Users\hunte\source\repos\IT232_UNIT3_ASSIGNMENT\obj\Debug\net6.0\ref\IT232_UNIT3_ASSIGNMENT.dll
